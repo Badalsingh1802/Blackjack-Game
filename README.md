@@ -1,4 +1,4 @@
- 🎮 Blackjack (21 Game) – Explained Simply
+  🎮 Blackjack (21 Game) – Explained Simply
 
  ✅ Objective:
 
